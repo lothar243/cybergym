@@ -1,0 +1,1 @@
+This project is designed to create an environment where students can perform hacking challenges in an isolated environment, with access through a Guacamole server (acting as a bastion).
